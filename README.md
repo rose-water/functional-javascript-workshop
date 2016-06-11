@@ -1,0 +1,1 @@
+answers to exercises from the [functional-javascript-workshop](https://github.com/timoxley/functional-javascript-workshop) workshopper
